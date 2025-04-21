@@ -51,3 +51,13 @@
 [05:14:21] [Server thread/INFO]: Rhuberd joined the game
 [05:14:21] [Server thread/INFO]: Rhuberd[/127.188.255.30:45175] logged in with entity id 112 at ([world]-95.5, 71.0, -51.5)
 [05:14:23] [Async Chat Thread - #0/INFO]: [Not Secure] <3L_CRACKENG> hola mr.white
+[05:15:00] [Server thread/INFO]: 3L_CRACKENG lost connection: Timed out
+[05:15:00] [Server thread/INFO]: 3L_CRACKENG left the game
+[05:15:28] [User Authenticator #1/INFO]: UUID of player 3L_CRACKENG is e62e1180-f0e1-3891-adf3-08b229884eff
+[05:15:29] [Server thread/INFO]: 3L_CRACKENG joined the game
+[05:15:29] [Server thread/INFO]: 3L_CRACKENG[/127.36.104.134:34991] logged in with entity id 568 at ([world]-112.30071459314703, 71.0, -83.63033143017536)
+[05:17:04] [Server thread/INFO]: Rhuberd has made the advancement [Monster Hunter]
+[05:17:41] [Server thread/INFO]: 3L_CRACKENG lost connection: Timed out
+[05:17:41] [Server thread/INFO]: 3L_CRACKENG left the game
+[05:18:08] [Server thread/INFO]: Rhuberd lost connection: Disconnected
+[05:18:08] [Server thread/INFO]: Rhuberd left the game
